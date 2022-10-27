@@ -1,0 +1,82 @@
+body{
+text-align: center; 
+background-color: lightgray;
+padding: 30px 30px 30px 30px;
+}
+
+.linha{
+    clear: both;
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(59, 133, 253);
+    color: #fff;
+    margin-top: 0px;
+    padding: 10px;
+    border-radius: 10px;
+
+
+}
+
+img{
+    width: 20px;
+    width: 20%;
+    border-radius: 50%;
+   
+}
+
+#foto{
+    width:  60%;
+    float: left;
+}
+
+#dados{
+    width: 40%;
+    float: left;
+    font-size: 20px;
+    padding-top: 50px;
+}
+
+.fonteDados{
+    color:rgb(59, 133, 253);
+    font-weight: bolder;
+}
+
+h2{
+    color:rgb(59, 133, 253); 
+    margin-top: 20px;
+    margin-bottom: 0px;
+    text-align: left;
+    
+
+}
+hr{
+    border-color:rgb(59, 133, 253); 
+}
+h4{
+    margin-bottom: 0px;
+    margin-top: 10px;
+}
+
+#coluna1{
+    float: left;
+    width: 48%;
+}
+#coluna2{
+    float: left;
+    width: 1px;
+    height: 400px;
+    background-color: #000;
+}
+#coluna3{
+    float: left;
+    width: 48%;
+}
+
+h3{
+    color:rgb(59, 133, 253);
+}
+
+
+
